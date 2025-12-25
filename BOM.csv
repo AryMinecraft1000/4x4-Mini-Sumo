@@ -1,26 +1,15 @@
-# Bill of Materials: Mini Sumo Robot Project
-
-| Part Name | Unit Price (USD) | Qty | Total Price (USD) |
-| :--- | :---: | :---: | ---: |
-| **Jsumo XMotion** All In One Controller V3 | $44.95 | 1 | $44.95 |
-| **Jsumo Core DC Motor** (6V 750RPM) | $16.00 | 4 | $64.00 |
-| **Jsumo Mini Katana Blade** (10cm) | $4.95 | 2 | $9.90 |
-| **Jsumo JS40F** Digital Distance Sensor | $12.50 | 4 | $50.00 |
-| **Jsumo JS2622S** Steel-Silicone Wheel Pair | $14.50 | 4 | $58.00 |
-| **LiPo Battery** (Locally Sourced) | $20.00 | 1 | $20.00 |
-| **Total Project Items** | - | - | **$246.85** |
-
----
-
-### 📦 Financial Summary (Import & Tax)
-
-| Description | Amount (USD) |
-| :--- | ---: |
-| Imported Items Subtotal | $226.85 |
-| Shipping (Imported Only) | $46.95 |
-| Import Tax (23% of $273.80) | $62.97 |
-| Local Battery (Exempt) | $20.00 |
-| **GRAND TOTAL** | **$356.77** |
-
-> [!IMPORTANT]
-> The 23% import tax and shipping fees only apply to the Jsumo components. The battery is purchased locally and does not incur these costs.
+Part Name,Unit Price (USD),Qty,Total Price (USD)
+Jsumo XMotion All In One Controller V3,44.95,1,44.95
+Jsumo Core DC Motor (6V 750RPM),16.00,4,64.00
+Jsumo Mini Katana Blade (10cm),4.95,2,9.90
+Jsumo JS40F Digital Distance Sensor,12.50,4,50.00
+Jsumo JS2622S Steel-Silicone Wheel Pair,14.50,4,58.00
+LiPo Battery (Locally Sourced),20.00,1,20.00
+,,Total Project Items,246.85
+,,,
+Description,Amount (USD),,
+Imported Items Subtotal,226.85,,
+Shipping (Imported Only),46.95,,
+Import Tax (23%),62.97,,
+Local Battery (Exempt),20.00,,
+GRAND TOTAL,356.77,,
