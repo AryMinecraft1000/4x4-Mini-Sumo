@@ -1,0 +1,8 @@
+Blade Bracket -> 1
+Front Plate -> 1
+IR Sensor Holder 1 -> 2
+IR Sensor Holder 2 -> 2
+Front Wall L -> 1
+Front Wall R -> 1
+Motor Cover -> 4
+Chassis -> 1
