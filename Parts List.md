@@ -3,6 +3,11 @@ For this project you will need:
 - All the 3D printed parts in the CAD file in their specified quantities
 - one 2mm diamater axel between 35-50mm in length (50mm recomended)
 - at least 1 spring with a maximum lenght of 11mm
-- 2 line sensors of your choosing witch fit in the 8x14mm spaced alocated
-- wires, however more than enough shoulb be included with the Jsumo sensors
+- wires, however more than enough should be included with the Jsumo sensors
 - conectors for the battery, JST prefered (one set, male and female)
+- 8x 19mm long M3 screws for the motor covers/mounts (thread lenght)
+- 2x 12mm long M2 crews for the whing-blade mechanism (thread lenght)
+- 2x 6mm long M2 screws for mounting the front cover (thread lenght)
+- 2x 4mm long M2 screws (full lenght)
+- 2x 5mm long M2 screws (full lenght)
+- 4x M2 nuts
