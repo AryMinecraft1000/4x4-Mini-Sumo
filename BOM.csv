@@ -1,15 +1,9 @@
-Part Name,Unit Price (USD),Qty,Total Price (USD)
-Jsumo XMotion All In One Controller V3,44.95,1,44.95
-Jsumo Core DC Motor (6V 750RPM),16.00,4,64.00
-Jsumo Mini Katana Blade (10cm),4.95,2,9.90
-Jsumo JS40F Digital Distance Sensor,12.50,4,50.00
-Jsumo JS2622S Steel-Silicone Wheel Pair,14.50,4,58.00
-LiPo Battery (Locally Sourced),20.00,1,20.00
-,,Total Project Items,246.85
-,,,
-Description,Amount (USD),,
-Imported Items Subtotal,226.85,,
-Shipping (Imported Only),46.95,,
-Import Tax (23%),62.97,,
-Local Battery (Exempt),20.00,,
-GRAND TOTAL,356.77,,
+Item,Description,Quantity,Unit Price ($),Total Price ($),URL,Running Total ($ with Tax)
+Jsumo XMotion,All In One Controller V3,1,44.95,44.95,,55.29
+Jsumo Core Motor,6V 750RPM,4,16.00,64.00,,133.45
+Jsumo Katana Blade,10cm Mini Sumo Blade,2,4.95,9.90,,145.42
+Jsumo JS40F,Digital Distance Sensor,4,12.50,50.00,,206.27
+Jsumo JS2622S,Steel-Silicone Wheel Pair,4,14.50,58.00,,276.84
+Import Shipping,International Shipping Fee,1,46.95,46.95,,334.01
+Import Tax,23% Import Duty,1,62.97,62.97,,411.46
+LiPo Battery,Locally Sourced Battery,1,20.00,20.00,,431.46
