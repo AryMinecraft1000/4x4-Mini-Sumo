@@ -17,7 +17,7 @@ The Jsumo PCB has wiring intructions written on it.
 | **Jsumo Mini Katana Blade** (10cm) | $4.95 | 2 | $9.90 | [Link](https://www.jsumo.com/mini-katana-blade-for-mini-sumo-robot-10cm) |
 | **Jsumo JS40F** Digital Distance Sensor | $12.50 | 4 | $50.00 | [Link](https://www.jsumo.com/js40f-digital-infrared-ir-distance-sensor-min-40-cm-range) |
 | **Jsumo JS2622S** Steel-Silicone Wheel Pair | $14.50 | 2 | $29.00 | [Link](https://www.jsumo.com/js2622-steel-silicone-wheel-pair-26mm-diameter) |
-| **IR Line Sensor** (TCRT5000) | *Region Dep.* | 2 | $0.00* | [Link](https://www.aliexpress.com/item/1005005682098178.html) |
+| **QRE1113 IR Reflection Sensor** | *Region Dep.* | 2 | $0.00* | [Link](https://www.aliexpress.com/item/1005005682098178.html) |
 | **LiPo Battery** (Locally Sourced) | $20.00 | 1 | $20.00 | - |
 | **Total Project Items** | - | - | **$217.85** | - |
 
@@ -34,4 +34,4 @@ The Jsumo PCB has wiring intructions written on it.
 | **GRAND TOTAL** | **$321.10** |
 
 > [!NOTE]
-> *The IR Line Sensors are excluded from the final price calculation as the cost varies by region and shipping method.
+> *The QRE1113 sensors are listed at $0.00 to keep the final price calculation consistent with your previous totals, as their cost is region-dependent.
