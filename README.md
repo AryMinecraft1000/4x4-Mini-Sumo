@@ -5,6 +5,9 @@ I chose this design philosophy as I've built 2 wheel drive international competi
 <img width="919" height="566" alt="image" src="https://github.com/user-attachments/assets/28c9bffe-cbfd-4d12-ab4b-b8f3ed43129a" />
 <img width="1225" height="574" alt="image" src="https://github.com/user-attachments/assets/db1644ef-d891-42ba-8971-473359223706" />
 
+The Jsumo PCB has wiring intructions written on it.
+<img width="921" height="583" alt="image" src="https://github.com/user-attachments/assets/ffc226d5-4ff2-4744-84bc-7bbed5c032f6" />
+
 # Bill of Materials: Mini Sumo Robot Project
 
 | Part Name | Unit Price (USD) | Qty | Total Price (USD) | URL |
