@@ -7,26 +7,27 @@ I chose this design philosophy as I've built 2 wheel drive international competi
 
 # Bill of Materials: Mini Sumo Robot Project
 
-| Part Name | Unit Price (USD) | Qty | Total Price (USD) |
-| :--- | :---: | :---: | ---: |
-| **Jsumo XMotion** All In One Controller V3 | $44.95 | 1 | $44.95 |
-| **Jsumo Core DC Motor** (6V 750RPM) | $16.00 | 4 | $64.00 |
-| **Jsumo Mini Katana Blade** (10cm) | $4.95 | 2 | $9.90 |
-| **Jsumo JS40F** Digital Distance Sensor | $12.50 | 4 | $50.00 |
-| **Jsumo JS2622S** Steel-Silicone Wheel Pair | $14.50 | 4 | $58.00 |
-| **LiPo Battery** (Locally Sourced) | $20.00 | 1 | $20.00 |
-| **Total Project Items** | - | - | **$246.85** |
+| Part Name | Unit Price (USD) | Qty | Total Price (USD) | URL |
+| :--- | :---: | :---: | :---: | :--- |
+| **Jsumo XMotion** All In One Controller V3 | $44.95 | 1 | $44.95 | [Link](https://www.jsumo.com/xmotion-robot-controller) |
+| **Jsumo Core DC Motor** (6V 750RPM) | $16.00 | 4 | $64.00 | [Link](https://www.jsumo.com/core-dc-motor-6v-750rpm) |
+| **Jsumo Mini Katana Blade** (10cm) | $4.95 | 2 | $9.90 | [Link](https://www.jsumo.com/mini-katana-blade-for-mini-sumo-robot-10cm) |
+| **Jsumo JS40F** Digital Distance Sensor | $12.50 | 4 | $50.00 | [Link](https://www.jsumo.com/js40f-digital-infrared-ir-distance-sensor-min-40-cm-range) |
+| **Jsumo JS2622S** Steel-Silicone Wheel Pair | $14.50 | 2 | $29.00 | [Link](https://www.jsumo.com/js2622-steel-silicone-wheel-pair-26mm-diameter) |
+| **LiPo Battery** (Locally Sourced) | $20.00 | 1 | $20.00 | - |
+| **Total Project Items** | - | - | **$217.85** | - |
 
 ---
 
-### Final Cost Breakdown
+### 📦 Final Cost Breakdown
 
 | Description | Amount (USD) |
 | :--- | ---: |
-| Imported Items Subtotal | $226.85 |
+| Imported Items Subtotal | $197.85 |
 | Shipping (Imported Only) | $46.95 |
-| Import Tax (23% of $273.80) | $62.97 |
-| Local Battery (Exempt from Tax/Shipping) | $20.00 |
-| **GRAND TOTAL** | **$356.77** |
+| Import Tax (23% of $244.80) | $56.30 |
+| Local Battery (Exempt from Tax) | $20.00 |
+| **GRAND TOTAL** | **$321.10** |
 
-> **Note:** The 23% import tax and the shipping fee apply only to the Jsumo components. The battery cost is added as a flat fee.
+> [!IMPORTANT]
+> The 23% import tax and shipping fees only apply to Jsumo components. The battery is sourced locally and does not incur these extra costs.
