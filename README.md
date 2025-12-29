@@ -1,11 +1,13 @@
 # 4x4-Mini-Sumo
 A 4x4 mini sumo robot to fit in the 10x10cm, 500g class.
-I chose this design philosophy as I've built 2 wheel drive international competition winning robots before and I wanted to challenge myself with the added complexity and space restrictions of a 4x4 robot.
+I chose this design philosophy as I've built 2 wheel drive international competition winning robots before and I wanted to challenge myself with the added complexity and space restrictions of a 4x4 robot. I also want to use this design to compete im my local international competition this spring.
+
 <img width="1063" height="753" alt="image" src="https://github.com/user-attachments/assets/fb914d9a-f067-4921-b661-32d2d1b5e16d" />
 <img width="919" height="566" alt="image" src="https://github.com/user-attachments/assets/28c9bffe-cbfd-4d12-ab4b-b8f3ed43129a" />
 <img width="1225" height="574" alt="image" src="https://github.com/user-attachments/assets/db1644ef-d891-42ba-8971-473359223706" />
 
 The Jsumo PCB has wiring intructions written on it.
+
 <img width="921" height="583" alt="image" src="https://github.com/user-attachments/assets/ffc226d5-4ff2-4744-84bc-7bbed5c032f6" />
 
 # Bill of Materials: Mini Sumo Robot Project
