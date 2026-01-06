@@ -36,4 +36,4 @@ The Jsumo PCB has wiring intructions written on it.
 | **GRAND TOTAL** | **$321.10** |
 
 > [!NOTE]
-> *The QRE1113 sensors are listed at $0.00 to keep the final price calculation consistent with your previous totals, as their cost is region-dependent.
+> *The QRE1113 sensors are listed at $0.00 to keep the final price calculation consistent as their cost is region-dependent.
