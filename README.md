@@ -17,13 +17,13 @@ The Jsumo PCB has wiring intructions written on it.
 | Part Name | Unit Price (USD) | Qty | Total Price (USD) | URL |
 | :--- | :---: | :---: | :---: | :--- |
 | **Jsumo XMotion** All In One Controller V3 | $44.95 | 1 | $44.95 | [Link](https://www.jsumo.com/xmotion-robot-controller) |
-| **Jsumo Core DC Motor** (6V 750RPM) | $16.00 | 4 | $64.00 | [Link](https://www.jsumo.com/core-dc-motor-6v-750rpm) |
 | **Jsumo Mini Katana Blade** (10cm) | $4.95 | 2 | $9.90 | [Link](https://www.jsumo.com/mini-katana-blade-for-mini-sumo-robot-10cm) |
 | **Jsumo JS40F** Digital Distance Sensor | $12.50 | 4 | $50.00 | [Link](https://www.jsumo.com/js40f-digital-infrared-ir-distance-sensor-min-40-cm-range) |
 | **Jsumo JS2622S** Steel-Silicone Wheel Pair | $14.50 | 2 | $29.00 | [Link](https://www.jsumo.com/js2622-steel-silicone-wheel-pair-26mm-diameter) |
+| **Generic 050 Motor** | $5.00 | 4 | $20.00 | [Link](https://www.aliexpress.com/item/1005008126068612.html) |
 | **QRE1113 IR Reflection Sensor** | *Region Dep.* | 2 | $0.00* | [Link](https://www.aliexpress.com/item/1005005682098178.html) |
 | **LiPo Battery** (Locally Sourced) | $20.00 | 1 | $20.00 | - |
-| **Total Project Items** | - | - | **$217.85** | - |
+| **Total Project Items** | - | - | **$173.85** | - |
 
 ---
 
@@ -31,11 +31,11 @@ The Jsumo PCB has wiring intructions written on it.
 
 | Description | Amount (USD) |
 | :--- | ---: |
-| Imported Items Subtotal | $197.85 |
-| Shipping (Imported Only) | $46.95 |
-| Import Tax (23% of $244.80) | $56.30 |
-| Local Battery (Exempt from Tax) | $20.00 |
-| **GRAND TOTAL** | **$321.10** |
+| Imported Jsumo Subtotal | $133.85 |
+| Shipping (Jsumo Only) | $46.95 |
+| Import Tax (23% of $180.80) | $41.58 |
+| Non-Taxed Items (Motors, Battery, Sensors) | $40.00 |
+| **GRAND TOTAL** | **$262.38** |
 
 > [!NOTE]
-> *The QRE1113 sensors are listed at $0.00 to keep the final price calculation consistent as their cost is region-dependent.
+> *The 23% import tax only applies to the Jsumo components and their shipping. The 050 Motors, Battery, and QRE1113 sensors are treated as local/separate acquisitions.
