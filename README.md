@@ -22,7 +22,6 @@ The Jsumo PCB has wiring intructions written on it.
 | **Jsumo JS2622S** Steel-Silicone Wheel Pair | $14.50 | 2 | $29.00 | [Link](https://www.jsumo.com/js2622-steel-silicone-wheel-pair-26mm-diameter) |
 | **Generic 050 Motor** | $5.00 | 4 | $20.00 | [Link](https://www.aliexpress.com/item/1005008126068612.html) |
 | **QRE1113 IR Reflection Sensor** | *Region Dep.* | 2 | $0.00* | [Link](https://www.aliexpress.com/item/1005005682098178.html) |
-| **AliExpress Shipping** | $15.00 | 1 | $15.00 | - |
 | **LiPo Battery** (Locally Sourced) | $20.00 | 1 | $20.00 | - |
 | **Total Project Items** | - | - | **$188.85** | - |
 
