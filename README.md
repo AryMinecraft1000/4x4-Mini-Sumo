@@ -22,8 +22,9 @@ The Jsumo PCB has wiring intructions written on it.
 | **Jsumo JS2622S** Steel-Silicone Wheel Pair | $14.50 | 2 | $29.00 | [Link](https://www.jsumo.com/js2622-steel-silicone-wheel-pair-26mm-diameter) |
 | **Generic 050 Motor** | $5.00 | 4 | $20.00 | [Link](https://www.aliexpress.com/item/1005008126068612.html) |
 | **QRE1113 IR Reflection Sensor** | *Region Dep.* | 2 | $0.00* | [Link](https://www.aliexpress.com/item/1005005682098178.html) |
+| **AliExpress Shipping** | $15.00 | 1 | $15.00 | - |
 | **LiPo Battery** (Locally Sourced) | $20.00 | 1 | $20.00 | - |
-| **Total Project Items** | - | - | **$173.85** | - |
+| **Total Project Items** | - | - | **$188.85** | - |
 
 ---
 
@@ -32,10 +33,11 @@ The Jsumo PCB has wiring intructions written on it.
 | Description | Amount (USD) |
 | :--- | ---: |
 | Imported Jsumo Subtotal | $133.85 |
-| Shipping (Jsumo Only) | $46.95 |
+| Jsumo Shipping | $46.95 |
 | Import Tax (23% of $180.80) | $41.58 |
-| Non-Taxed Items (Motors, Battery, Sensors) | $40.00 |
-| **GRAND TOTAL** | **$262.38** |
+| AliExpress Parts & Shipping | $35.00 |
+| Local Battery (Exempt) | $20.00 |
+| **GRAND TOTAL** | **$277.38** |
 
 > [!NOTE]
-> *The 23% import tax only applies to the Jsumo components and their shipping. The 050 Motors, Battery, and QRE1113 sensors are treated as local/separate acquisitions.
+> *The 23% import tax is only applied to Jsumo items and their respective shipping. AliExpress and local items are added as flat costs.
